@@ -10,6 +10,10 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        'mi-color-personalizado': '#021520',
+        'mi-otrocolor-personalizado': '#F2B705',
+        'mi-tercer-personalizado': '#0A2F45',
+        'mi-cuarto-personalizado': '#010B13',
       },
     },
   },
